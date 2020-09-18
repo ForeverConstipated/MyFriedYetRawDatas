@@ -20,8 +20,8 @@
     {
       "storage": "1",
       "varName": "msg",
-      "comparison": "5",
-      "value": "https://www.pornhub.com/",
+      "comparison": "6",
+      "value": "(|https://www.pornhub.com/|https://www.xvideos.com/|https://www.xnxx.com/|https://theporndude.com/|https://pornhub.zone/|https://mypornhub.com/|https://www.pornhub.net.co/|https://www.youporn.com/site/pornhub/|https://www.redtube.com/?search=pornhub|https://www.xxx-pornhub.com/|https://pornhub.wine/|https://pornhqhub.com/en/|https://pornhubxxxhd.com/|https://pornoscraper.com/|http://www.nakehub.com/|http://www.pornhubuk.com/|https://es.pornhub.com/|http://www.nakehub.com/|)",
       "iftrue": "0",
       "iftrueVal": "",
       "iffalse": "1",
